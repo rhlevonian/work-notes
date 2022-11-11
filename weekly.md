@@ -16,9 +16,9 @@ aliases: ["2022.11.07 – 2011.11.11"]
 
 ## Details
 
-- [[Work/Tracking/2022.11.07|2022.11.07]]:
-    - mostly 1:1s
-    - made some progress on project q
+M 2022.11.07:
+- mostly 1:1s
+- made some progress on project q
 
 - [[Work/Tracking/2022.11.08|2022.11.08]]:
     - Uncaptured payments >180 days... need to push back against this
