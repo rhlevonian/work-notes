@@ -20,11 +20,11 @@ M 2022.11.07:
 - mostly 1:1s
 - made some progress on project q
 
-- [[Work/Tracking/2022.11.08|2022.11.08]]:
-    - Uncaptured payments >180 days... need to push back against this
-        - [Proposal](https://docs.google.com/document/d/1kMc7KILtgCf86gArvNvJP_BlpNXVorp4NTnG12XgajU/edit#)
-        - [WAYP-409 full list of uncaptured orders](https://docs.google.com/spreadsheets/d/1YAL24m2Zo5CPmPOkHhvOd9J3Tb3YpXcge0jv09N18U8/edit#gid=219103516)
-        - 9k shipped orders ($2M oppty) to go after first -- these orders are already "held" on the customer CC, e.g. hotel room holds, should be able to go after? What's the order date distribution
+T 2022.11.08:
+- Uncaptured payments >180 days... need to push back against this
+  - [Proposal](https://docs.google.com/document/d/1kMc7KILtgCf86gArvNvJP_BlpNXVorp4NTnG12XgajU/edit#)
+  - [WAYP-409 full list of uncaptured orders](https://docs.google.com/spreadsheets/d/1YAL24m2Zo5CPmPOkHhvOd9J3Tb3YpXcge0jv09N18U8/edit#gid=219103516)
+  - 9k shipped orders ($2M oppty) to go after first -- these orders are already "held" on the customer CC, e.g. hotel room holds, should be able to go after? What's the order date distribution
 
 - [[Work/Tracking/2022.11.09|2022.11.09]]:
     - Aligned with Nitin on MB path forwards and CSAT deliverables
